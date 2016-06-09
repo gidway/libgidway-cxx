@@ -1,4 +1,4 @@
-#include "../math/ema.hh"
+#include "../math/ma.hh"
 #include <random>
 #include <cstdio>
 #include <ctime>
