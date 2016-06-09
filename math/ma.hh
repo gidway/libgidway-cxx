@@ -1,5 +1,5 @@
-#ifndef __GIDWAY_MATH_HH__
-#define __GIDWAY_MATH_HH__
+#ifndef __GIDWAY_MATH_MA_HH__
+#define __GIDWAY_MATH_MA_HH__
 #include <cmath>
 #include <vector>
 namespace gidway {
@@ -41,4 +41,4 @@ template <typename T> T wma (std::vector<T> & v, int _range) {
 
 } // namespace math
 } // namespace gidway
-#endif // __GIDWAY_MATH_HH__
+#endif // __GIDWAY_MATH_MA_HH__
